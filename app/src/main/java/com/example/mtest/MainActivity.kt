@@ -8,6 +8,10 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.mtest.databinding.ActivityMainBinding
 
+/*
+* Main
+*  */
+
 class MainActivity : AppCompatActivity() {
 
     lateinit var binding : ActivityMainBinding
